@@ -1,0 +1,15 @@
+C:\Cursos\CursoC#\ProjetosC#\ProjetoEstacionamento\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.exe
+C:\Cursos\CursoC#\ProjetosC#\ProjetoEstacionamento\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.deps.json
+C:\Cursos\CursoC#\ProjetosC#\ProjetoEstacionamento\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.runtimeconfig.json
+C:\Cursos\CursoC#\ProjetosC#\ProjetoEstacionamento\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.dll
+C:\Cursos\CursoC#\ProjetosC#\ProjetoEstacionamento\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.pdb
+C:\Cursos\CursoC#\ProjetosC#\ProjetoEstacionamento\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.csproj.AssemblyReference.cache
+C:\Cursos\CursoC#\ProjetosC#\ProjetoEstacionamento\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CursoC#\ProjetosC#\ProjetoEstacionamento\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfoInputs.cache
+C:\Cursos\CursoC#\ProjetosC#\ProjetoEstacionamento\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfo.cs
+C:\Cursos\CursoC#\ProjetosC#\ProjetoEstacionamento\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+C:\Cursos\CursoC#\ProjetosC#\ProjetoEstacionamento\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.dll
+C:\Cursos\CursoC#\ProjetosC#\ProjetoEstacionamento\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\refint\DesafioFundamentos.dll
+C:\Cursos\CursoC#\ProjetosC#\ProjetoEstacionamento\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.pdb
+C:\Cursos\CursoC#\ProjetosC#\ProjetoEstacionamento\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.genruntimeconfig.cache
+C:\Cursos\CursoC#\ProjetosC#\ProjetoEstacionamento\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\ref\DesafioFundamentos.dll
